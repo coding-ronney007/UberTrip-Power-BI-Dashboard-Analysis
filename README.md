@@ -54,6 +54,19 @@ This project demonstrates data cleaning, data modeling, DAX measures, and intera
 - Interactive dashboard design
 - Business intelligence reporting
 
+ ## 🔍 Business Insights
+
+The Uber Trip Analysis Dashboard helps explore booking activity, booking amounts, and trip distance patterns.
+
+- **Booking Trends:** Analyze booking volumes across available time periods to identify peak activity.
+- **Booking Amount Analysis:** Compare booking amounts across available categories to understand revenue patterns.
+- **Trip Distance Analysis:** Examine trip distances to understand ride patterns and distance distribution.
+- **KPI Monitoring:** Use interactive visuals and dynamic metric selection to compare key performance indicators.
+
+### Business Value
+These insights can help stakeholders monitor ride activity, understand booking patterns, and identify areas for further operational analysis.
+
+
 ## 👨‍💻 Author
 **Avinash Prakash**
 
