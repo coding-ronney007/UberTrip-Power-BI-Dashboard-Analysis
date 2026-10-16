@@ -55,6 +55,6 @@ This project demonstrates data cleaning, data modeling, DAX measures, and intera
 - Business intelligence reporting
 
 ## 👨‍💻 Author
-**Your Name**
+**Avinash Prakash**
 
 Aspiring Data Analyst | Power BI | SQL | Excel
